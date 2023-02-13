@@ -6,6 +6,8 @@ Layout yang dipelajari yaitu:
 * Relative Layout
 * Constraint Layout
 
+#Download Project/Clone Project
+
 ``
 git clone https://github.com/damar111/Relative_Layout_Android.git
 ``
