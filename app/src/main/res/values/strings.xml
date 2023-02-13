@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">RelativeLayout_Damar_XIIRPL</string>
     <string name="hi">Hello HELL!!</string>
+    <string name="title"><font>Let's find</font>\n<font color='#F67B00'>food</font> near you</string>
 
     <string-array name="day">
         <item>Monday</item>
